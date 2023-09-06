@@ -6,7 +6,7 @@
 #### [!NOTE]
 BlackJack Problem 1 -*Fixed*-
 #### Problem 1
-When the dealer gets an Ace card, and his points are over 21 the Ace for some reason does not count as 1 point, instead it continues to count as 11 points, which does not make sense. Since it work perfectly fine when it the same situation but with the player.
+When the dealer gets an Ace card, and his points are over 21 the Ace for some reason does not count as 1 point, instead it continues to count as 11 points, which does not make sense. Since it works perfectly fine when it's the same situation but with the player instead.
 
 <br />
 
