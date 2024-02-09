@@ -18,7 +18,7 @@ I need to find a better solution for resizing font depending on the number that 
 
 ### TicTacToe
 #### Problem 1
-You can put your X's as fast as you want. The animation of O's being put down is around 0.5s(i don't remember tbh) and its placement is random. Since X does not have to wait for the O's animation to finish it seems as if one can put down X's faster than the O's can. Which is simply not true since the O is there as soon as X has been played, it just doesn't appear due to the animation. I could turn off the "animation" for O's, but it would make it look weird while playing. The better option is to not allow the player to put down X's until the O's animation is done. I am not entirely sure as to how, but maybe by adding a delay or something.
+You can put your X's as fast as you want. The "animation" of O's being put down is around 0.5s(i don't remember tbh) and its placement is random. Since X does not have to wait for the O's "animation" to finish it seems as if one can put down X's faster than the O's can. Which is simply not true since the O is being placed as soon as X has been played, it just doesn't appear due to the "animation". I could turn off the "animation" for O's, but it would make it look weird while playing. The better option is to not allow the player to put down X's until the O's animation is done. I am not entirely sure as to how.
 
 #### Problem 2
 Not really a problem per say. I started to make an "unfair" opponent in TicTacToe(app2.js), but stopped in the beginning. I should finish it. The premise(idea) was to counter all possible combinations that there is in TicTacToe, so that it would be impossible to win.
